@@ -34,7 +34,7 @@ KEY_MAPPINGS = {
 }
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Simple Piano")
+pygame.display.set_caption("Piano")
 
 font = pygame.font.Font(None, 36)
 
