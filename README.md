@@ -1,4 +1,5 @@
 # SIMPLE PIANO
+<a href="https://ibb.co/BszVtHP"><img src="https://i.ibb.co/BszVtHP/icon.png" alt="icon" border="0"></a>
 ## Python based piano with a simple and intuitive interface.
 
 ### Interface
